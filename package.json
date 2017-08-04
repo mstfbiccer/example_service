@@ -5,8 +5,11 @@
   "main": "training.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node training.js"
+    "start": "node training.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
